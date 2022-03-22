@@ -1,0 +1,24 @@
+{
+    "name": "ahmadsyamim/rappo-theme",
+    "title": "Rappo",
+    "description": "",
+    "type": "laravel-module-theme",
+    "authors": [
+        {
+            "name": "Ahmad Syamim",
+            "email": "ahmad.syamim@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+            }
+        }
+    },
+    "require": {
+    },
+    "scripts": {
+        "dist": "tar -cvzf ./dist/Rappo.theme.tar.gz -C ./src ."
+    }
+}

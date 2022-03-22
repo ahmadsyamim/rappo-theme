@@ -1,0 +1,7 @@
+{
+    "name": "Rappo",
+    "package_name": "ahmadsyamim/rappo-theme",
+    "extends": "",
+    "asset-path": "Rappo",
+    "views-path": "Rappo"
+}
